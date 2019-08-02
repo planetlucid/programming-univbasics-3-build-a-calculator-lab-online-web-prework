@@ -19,10 +19,11 @@ end
 multiplication (num1,num2)
 
 def modulo(num1, num2)
-modulo
+modulo ==
 end
 modulo(num1, num2)
 
 def square_root(num)
-
+square_root
 end
+square_root (num1,num2)
